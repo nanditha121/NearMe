@@ -59,7 +59,7 @@ reliance.html
 </head>
 <body bgcolor="pink">
 <h1 align="center"><b>NELLORE</b></h1>
-<h3 align="center"><b>HOTEL MINERVA GRAND</b></h3>
+<h3 align="center"><b>RELIANCE DIGITAL</b></h3>
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
@@ -101,7 +101,7 @@ Narayana.html
 </head>
 <body bgcolor="lavender">
 <h1 align="center"><b>NELLORE</b></h1>
-<h3 align="center"><b>HOTEL MINERVA GRAND</b></h3>
+<h3 align="center"><b>NARAYANA MEDICAL COLLEGE AND HOSPITAL</b></h3>
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
@@ -121,7 +121,7 @@ Swagath.html
 </head>
 <body bgcolor="blue">
 <h1 align="center"><b>NELLORE</b></h1>
-<h3 align="center"><b>HOTEL MINERVA GRAND</b></h3>
+<h3 align="center"><b>HOTEL SWAGATH</b></h3>
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
@@ -141,7 +141,7 @@ temple.html
 </head>
 <body bgcolor="yellow">
 <h1 align="center"><b>NELLORE</b></h1>
-<h3 align="center"><b>HOTEL MINERVA GRAND</b></h3>
+<h3 align="center"><b>SRI RAJARAJESHWARI TEMPLE</b></h3>
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
